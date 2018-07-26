@@ -1,2 +1,3 @@
 # flipcard
-this is my first repository..
+this is my first repository.
+Just a sample repository
